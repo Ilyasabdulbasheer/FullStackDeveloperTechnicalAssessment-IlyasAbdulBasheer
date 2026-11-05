@@ -1,6 +1,6 @@
 # Task 3 | Safe AI Integration & Human-in-the-Loop Approval Mechanism
 
-**Candidate:** Saud Pardesi  
+**Candidate:** Ilyas Abdul Basheer  
 **Component:** Admin-Only AI SEO Helper Prototype (`ai-seo-helper`)  
 **Target Pages:** Space42 Arena Event Page & DrVet Animal Hospital Service Page  
 

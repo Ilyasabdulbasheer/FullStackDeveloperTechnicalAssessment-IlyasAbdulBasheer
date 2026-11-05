@@ -1,6 +1,6 @@
 # Cross-Brand Technical SEO & Conversion Audit
 
-**Author:** Saud Pardesi (Full-Stack Developer Candidate)  
+**Author:** Ilyas Abdul Basheer (Full-Stack Developer Candidate)  
 **Role:** External Technical SEO & Web Performance Consultant  
 **Audit Scope:** IP Studios, DrVet Animal Hospital, Space42 Arena, Jazzbar, MENA Lead  
 **Audit Date:** November 2026  

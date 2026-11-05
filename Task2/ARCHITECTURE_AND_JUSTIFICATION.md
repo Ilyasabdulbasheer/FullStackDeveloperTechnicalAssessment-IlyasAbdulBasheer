@@ -1,7 +1,7 @@
 # Group Enquiry Desk — Architecture & Data Model Justification
 
 **Component:** WordPress Mini-Plugin (`group-enquiry-desk`)  
-**Candidate:** Saud Pardesi  
+**Candidate:** Ilyas Abdul Basheer  
 **Task:** Task 2 — Secure WordPress Mini-Plugin  
 
 ---

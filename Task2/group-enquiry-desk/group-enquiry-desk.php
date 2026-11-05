@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/Ilyasabdulbasheer/FullStackDeveloperTechnicalAssessment-IlyasAbdulBasheer
  * Description: Secure multi-brand customer enquiry desk for WordPress. Features scoped frontend forms, CSRF/rate-limit defense, admin management, and an authenticated REST API.
  * Version: 1.0.0
- * Author: Saud Pardesi
+ * Author: Ilyas Abdul Basheer
  * Text Domain: group-enquiry-desk
  * Requires at least: 5.8
  * Requires PHP: 7.4
