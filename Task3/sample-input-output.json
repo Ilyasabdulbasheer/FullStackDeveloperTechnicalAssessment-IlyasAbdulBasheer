@@ -1,0 +1,73 @@
+{
+  "scenarios": [
+    {
+      "brand": "space42arena",
+      "brand_name": "Space42 Arena",
+      "scenario_type": "Event Page",
+      "input": {
+        "page_title": "Khalid Abdulrahman Live at Space42 Arena",
+        "description": "Legendary singer and composer Khalid Abdulrahman performs his greatest classical and contemporary hits live in Abu Dhabi. Featuring full orchestral backing, VIP seating tiers, and premier acoustic sound at the award-winning Space42 Arena indoor venue on Al Raha Beach. Doors open at 19:00, show starts at 20:30."
+      },
+      "output": {
+        "seo_title": "Khalid Abdulrahman Live in Abu Dhabi | Space42 Arena",
+        "meta_description": "Experience Khalid Abdulrahman live at Space42 Arena, Al Raha Beach, Abu Dhabi. Book tickets for an unforgettable evening of iconic music on Nov 21.",
+        "faqs": [
+          {
+            "question": "What time do doors open for Khalid Abdulrahman at Space42 Arena?",
+            "answer": "Doors open at 19:00 with the main concert performance commencing at 20:30."
+          },
+          {
+            "question": "Where is Space42 Arena located and is parking available?",
+            "answer": "Space42 Arena is located on Al Raha Beach, Abu Dhabi, with dedicated on-site parking accessible from the E10 highway."
+          },
+          {
+            "question": "Are bags permitted inside the arena?",
+            "answer": "Standard arena security guidelines prohibit bags larger than A4 size. All guests undergo security screening upon entry."
+          }
+        ],
+        "validation_metadata": {
+          "title_length": 52,
+          "meta_length": 150,
+          "faq_count": 3,
+          "schema_valid": true,
+          "status": "pending_human_approval"
+        }
+      }
+    },
+    {
+      "brand": "drvet",
+      "brand_name": "DrVet Animal Hospital",
+      "scenario_type": "Service Page",
+      "input": {
+        "page_title": "Veterinary Diagnostic Imaging & MRI Center",
+        "description": "Our Khalifa City animal hospital provides state-of-the-art diagnostic imaging for companion animals, including 1.5T MRI scanning, high-resolution digital X-rays, and abdominal ultrasonography. Supervised by experienced veterinary radiologists to pinpoint orthopedic, spinal, and soft-tissue conditions."
+      },
+      "output": {
+        "seo_title": "Pet MRI & Diagnostic Imaging in Abu Dhabi | DrVet",
+        "meta_description": "Advanced veterinary MRI scans, digital X-rays, and ultrasounds in Khalifa City, Abu Dhabi. Precision diagnostic care for dogs and cats at DrVet Hospital.",
+        "faqs": [
+          {
+            "question": "Why would my pet need an MRI scan?",
+            "answer": "MRI scans provide high-resolution cross-sectional imaging critical for investigating neurological issues, spinal injuries, and complex soft-tissue disorders."
+          },
+          {
+            "question": "Is sedation or anesthesia required during a veterinary MRI?",
+            "answer": "Yes, light general anesthesia is necessary to ensure pets remain completely still and comfortable during the diagnostic scan."
+          },
+          {
+            "question": "How do I schedule a diagnostic imaging consultation at DrVet?",
+            "answer": "Consultations can be booked through our general inquiry desk or by contacting our Khalifa City clinic directly at +971 2 412 6555."
+          }
+        ],
+        "validation_metadata": {
+          "title_length": 50,
+          "meta_length": 153,
+          "faq_count": 3,
+          "schema_valid": true,
+          "status": "pending_human_approval"
+        }
+      }
+    }
+  ]
+}
+
